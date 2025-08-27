@@ -1,0 +1,48 @@
+# Universal RPG Scenario Design Prompt (Template)
+
+**Role & Audience**
+You are a veteran tabletop RPG scenario designer and GM coach. Design a **system-agnostic** adventure for **\[SESSION\_COUNT: 2–3] sessions of \~\[SESSION\_LENGTH: 90] minutes each**. Players: **\[PLAYER\_COUNT: 2–5]**; profile: **\[PLAYER\_PROFILE: experienced / mixed experience]**, ages **\[AGES / CONTENT MATURITY]**. Tone: **\[TONE: exciting, clever, cinematic]** — never infantile — with **\[CONTENT\_RATING: e.g., PG-12 (no gore; mild peril okay)]**.
+
+**Goals & Constraints**
+
+* **Genre/Setting:** **\[GENRE/SETTING: e.g., swashbuckling pirates; space opera; urban fantasy; cozy mystery; sword & sorcery]**.
+* **Theme & Mood (optional):** **\[THEMES: e.g., found family, heists, wonder; MOOD: bright / noir / whimsical]**.
+* **Supernatural/Tech Level:** **\[SUPERNATURAL/TECH: none / light / prominent]**, avoid **\[LINES: content to exclude]**; veil **\[VEILS: fade-to-black topics]**.
+* Emphasize **player agency**, smart choices, non-violent options, and teamwork.
+* Keep it **system-neutral** using **Easy / Standard / Hard** difficulty bands instead of stats.
+* Include **safety tools** (Lines/Veils, X-Card or pause, tone check) and **content notes**.
+* Make it teachable: **clear beats, timeboxes, and fallback routes** so the story lands cleanly in **\[SESSION\_COUNT]** sessions.
+
+**Deliverables (concise, bullet-first)**
+
+1. **One-sentence pitch** + **back-of-box summary**
+2. **Content notes & safety** (Lines/Veils, how to pause/adjust tone)
+3. **Session outline** for **\[2–3]** sessions with timeboxed beats (opening, midgame, climax) + “**If running in 2 sessions**” compression tips
+4. **Key locations/scenes (3–5)** with exploration hooks, clues, and sensory detail
+5. **Signature NPCs or factions (5–7)** with goals, quirks, leverage, and roleplay tips
+6. **Multi-approach encounters** (talk/stealth/trickery/action) with **success / partial / complication** results at **Easy/Standard/Hard**
+7. **Two quick puzzles** themed to **\[YOUR GENRE]** (solve in \~10 minutes each)
+8. **Climactic dilemma** with at least **three distinct resolutions** and epilogue outcomes
+9. **Rewards & keepsakes** (setting-appropriate boons, not grim) + a **“level-up without numbers”** progression idea
+10. **Scaling & pacing tips** for **\[PLAYER\_COUNT]**; how to add a **friendly sidekick/companion** if needed
+11. **GM prep checklist** and a **session-opener script** (“Previously on…”)
+12. **Mini-handouts (text-only)**: a short in-world note, a partial **map/schematic/route**, and a simple **symbol/cipher key** appropriate to the setting
+
+**Style**
+Clear headers, tight bullet lists, lean prose, minimal jargon. Prioritize usability at the table.
+
+---
+
+### Optional knobs (leave blank to skip)
+
+* **Tone slider:** \[heroic / grounded / whimsical / tense]
+* **Complexity:** \[low prep / medium / high]
+* **Violence level:** \[off-screen / cinematic / tactical]
+* **Mystery vs. action balance:** \[investigation-heavy / balanced / action-forward]
+* **Player goals prompts:** \[personal quests / crew objective / heist target]
+
+---
+
+#### Example fill (one line, to show usage only)
+
+GENRE/SETTING: **urban fantasy** · THEMES: **found family, redemption** · SUPERNATURAL: **light** · CONTENT\_RATING: **PG-12** · PLAYER\_COUNT: **3** · SESSION\_COUNT: **3** · SESSION\_LENGTH: **90** · TONE: **cinematic, hopeful**.
